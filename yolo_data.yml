@@ -1,0 +1,13 @@
+path: D:/TUHOC/VietNguyenAI/yolo/Fisheye8K
+train: ./train/images
+val: ./test/images
+
+nc: 5
+names: ['Bus','Bike','Car','Pedestrian','Truck']
+
+epochs: 100
+imgsz: 256
+batch: 2
+device: 0
+workers: 4
+
