@@ -1,2 +1,5 @@
 imgsz: 256
-show_labels: False
+show_labels: True
+stream: True
+device: 0
+line_width: 2
