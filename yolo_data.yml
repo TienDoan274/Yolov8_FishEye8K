@@ -1,4 +1,4 @@
-path: D:/TUHOC/VietNguyenAI/yolo/Fisheye8K
+path: D:/VNAI/yolo/Fisheye8K
 train: ./train/images
 val: ./test/images
 
