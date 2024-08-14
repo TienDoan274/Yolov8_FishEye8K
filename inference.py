@@ -11,7 +11,7 @@ def get_args():
 def main(args):
     model = YOLO(args.model_path)
 
-    result = model.predict(args.image_path, imgsz=1024, conf=0.3,show_labels=True)
+    result = model.predict(args.image_path, imgsz=1024, conf=0.3,show_labels=True,iou = 0.6)
     img = result[0].plot(line_width=3, font_size=5)
     
     im = Image.fromarray(img)

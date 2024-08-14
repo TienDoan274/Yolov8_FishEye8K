@@ -12,7 +12,6 @@ def get_args():
     args = parser.parse_args()
     return args
 def main(args):
-    from ultralytics import YOLO
 
     model = YOLO(args.model_path)
     results = model.val(data=args.data_yml_path, imgsz=512, batch=8, conf=0.3, iou=0.6, device="0")
