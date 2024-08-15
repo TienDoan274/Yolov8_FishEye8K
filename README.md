@@ -24,7 +24,7 @@ Link datasets: https://scidm.nchc.org.tw/en/dataset/fisheye8k!
 </p>
 
 <p align="center">
-    <img src="[https://github.com/user-attachments/assets/4bf1a3d5-7bfc-429f-8d30-e432ba4c2a28](https://drive.google.com/drive/folders/1qZBmTA52VyO_i-e1N__ogu-8K9wRS27k?fbclid=IwY2xjawEi1qhleHRuA2FlbQIxMAABHawsm00FtZWETTkvdZRoiKb11HVBBTGWTBYJP3sCpnZJHFFntw8XxRGW1g_aem_QnySJkU8pgAZCjgblXEyoQ)" >
+    <img src="https://drive.google.com/drive/folders/1qZBmTA52VyO_i-e1N__ogu-8K9wRS27k?fbclid=IwY2xjawEi1qhleHRuA2FlbQIxMAABHawsm00FtZWETTkvdZRoiKb11HVBBTGWTBYJP3sCpnZJHFFntw8XxRGW1g_aem_QnySJkU8pgAZCjgblXEyoQ" >
     <figcaption>Prediction with SAHI</figcaption>
 </p>
 
