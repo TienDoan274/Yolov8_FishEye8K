@@ -7,8 +7,9 @@ def get_args():
     args = parser.parse_args()
     return args
 def main(args):
-    model = YOLO("D:/TUHOC/VietNguyenAI/yolo/yolov8n.pt")
-    model.train(data = args.yml_path)
+    model = YOLO(model=args.model_path)
+    model.train(data = args.yml_path,epochs=100,imgsz=640,batch=4,device=0,
+                workers=8,patience=15,dropout= 0.1,label_smoothing= 0.1,lr0= 0.001,cos_lr= True)
 if __name__ == "__main__":
     args = get_args()
     main(args)

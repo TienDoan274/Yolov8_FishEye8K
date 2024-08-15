@@ -1,15 +1,12 @@
-from torchvision.models.detection import fasterrcnn_mobilenet_v3_large_320_fpn,FasterRCNN_MobileNet_V3_Large_320_FPN_Weights
 import argparse
 import torch
 import cv2
-from torchvision.transforms import ToTensor
-from torchvision import transforms
 import json
 import os
 def get_args():
-    parser = argparse.ArgumentParser(description='train_fisheye_with_fasterRCNN')
-    parser.add_argument('--image_path',type=str,default='./test/images/camera2_A_261.png')
-    parser.add_argument('--label_path',type=str,default='./test/labels/camera2_A_261.txt')
+    parser = argparse.ArgumentParser(description='draw_bounding_box')
+    parser.add_argument('--image_path',type=str,default='./train/images/camera15_A_40.png')
+    parser.add_argument('--label_path',type=str,default='./train/labels/camera15_A_40.txt')
 
     args = parser.parse_args()
     return args
@@ -32,7 +29,7 @@ def main(args):
         x_max = int((x_center + width / 2)*img_shape[1])
         y_max = int((y_center + height / 2)*img_shape[0])
         cv2.rectangle(image, (x_min, y_min), (x_max, y_max), (0,0,0), 2)
-        cv2.putText(image, str(label) , (x_min, y_min),
+        cv2.putText(image, classes[label] , (x_min, y_min),
                 cv2.FONT_HERSHEY_SIMPLEX, 1, (0, 0, 0), 2)
 
     cv2.imwrite("./runs/visualize.png", image)  

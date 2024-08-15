@@ -1,5 +1,6 @@
-imgsz: 256
+imgsz: 1024
 show_labels: True
 stream: True
 device: 0
-line_width: 2
+line_width: 1
+iou: 0.5

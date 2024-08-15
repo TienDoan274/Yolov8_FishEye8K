@@ -10,7 +10,7 @@ from sahi.predict import get_prediction, get_sliced_prediction, predict
 from IPython.display import Image
 import argparse
 def get_args():
-    parser = argparse.ArgumentParser(description='train_fisheye_with_fasterRCNN')
+    parser = argparse.ArgumentParser(description='batch_predict_sahi')
     parser.add_argument('--images_path',type=str,default='./test/images')
     parser.add_argument('--model_path',type=str,default='./runs/detect/train11/weights/best.pt')
     parser.add_argument("--config_path", "-c", type=str, default='./sahi/model_config.yml')

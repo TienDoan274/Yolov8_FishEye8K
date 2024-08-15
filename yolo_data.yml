@@ -1,21 +1,8 @@
-path: D:/TUHOC/VietNguyenAI/yolo/Fisheye8K
+path: .
 train: ./train/images
 val: ./test/images
 
-nc: 5
 names: ['Bus','Bike','Car','Pedestrian','Truck']
 
-#Training parameters
-epochs: 100
-imgsz: 640
-batch: 4
-device: 0
-workers: 8
-patience: 15
-save_period: 10
 
-dropout: 0.1
-label_smoothing: 0.1
-lr0: 0.001
-cos_lr: True
 
