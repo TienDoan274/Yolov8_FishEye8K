@@ -9,9 +9,9 @@ Link datasets: https://scidm.nchc.org.tw/en/dataset/fisheye8k!
 <br>
 <br>
 
+True:
 <p align="center">
     <img src="https://github.com/user-attachments/assets/1cff1cd8-6462-4ca9-9409-0d8fe97ecbd7" >
-    <figcaption>True</figcaption>
 
 </p>
 
@@ -19,18 +19,18 @@ Link datasets: https://scidm.nchc.org.tw/en/dataset/fisheye8k!
 <br>
 <br>
 
+Prediction:
 <p align="center">
     <img src="https://github.com/user-attachments/assets/4bb83362-5cd5-4054-bb51-98ce8ac59b76">
-    <figcaption>Prediction</figcaption>
 </p>
 
 <br>
 <br>
 <br>
 
+Prediction with SAHI:
 <p align="center">
     <img src="https://github.com/user-attachments/assets/9ee31e93-2f82-4356-bf0c-5bc4479199c2">
-    <figcaption>Prediction with SAHI</figcaption>
 </p>
 
 
