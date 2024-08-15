@@ -29,7 +29,8 @@ Link datasets: https://scidm.nchc.org.tw/en/dataset/fisheye8k!
 <br>
 
 <p align="center">
-    <img src="https://github.com/user-attachments/assets/4bf1a3d5-7bfc-429f-8d30-e432ba4c2a28" >
+    <img src="https://github.com/user-attachments/assets/9ee31e93-2f82-4356-bf0c-5bc4479199c2"
+
     <figcaption>Prediction with SAHI</figcaption>
 </p>
 
