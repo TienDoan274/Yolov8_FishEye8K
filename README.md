@@ -20,8 +20,7 @@ Link datasets: https://scidm.nchc.org.tw/en/dataset/fisheye8k!
 <br>
 
 <p align="center">
-    <img src="https://github.com/user-attachments/assets/f330e3d8-08a3-4eea-9a58-f9720fcdd451">
-
+    <img src="https://github.com/user-attachments/assets/4bb83362-5cd5-4054-bb51-98ce8ac59b76">
     <figcaption>Prediction</figcaption>
 </p>
 
