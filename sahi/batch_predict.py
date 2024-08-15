@@ -1,4 +1,3 @@
-# arrange an instance segmentation model for test
 from sahi.utils.yolov8 import (
     download_yolov8s_model, download_yolov8s_seg_model
 )
