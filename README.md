@@ -35,4 +35,23 @@ Prediction with SAHI:
 </p>
 
 
+<br>
+<br>
+<br>
+
+Confusion matrix:
+<p align="center">
+    <img src="https://github.com/user-attachments/assets/9964a2ff-11f0-4b9c-b23d-266e16d182a2">
+</p>
+
+<br>
+<br>
+<br>
+
+F1 curve:
+<p align="center">
+    <img src="https://github.com/user-attachments/assets/b9742748-b73f-41d7-abd7-e2016196d298">
+</p>
+
+
 
