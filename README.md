@@ -30,7 +30,8 @@ Prediction:
 
 Prediction with SAHI:
 <p align="center">
-    <img src="https://github.com/user-attachments/assets/9ee31e93-2f82-4356-bf0c-5bc4479199c2">
+    <img src="https://github.com/user-attachments/assets/85fdfbf1-b94a-4fa3-ab5a-bd229520995b">
+
 </p>
 
 
