@@ -29,7 +29,7 @@ Link datasets: https://scidm.nchc.org.tw/en/dataset/fisheye8k!
 <br>
 
 <p align="center">
-    <img src="[https://github.com/user-attachments/assets/4bf1a3d5-7bfc-429f-8d30-e432ba4c2a28](https://github-production-user-asset-6210df.s3.amazonaws.com/125201131/358116928-4bf1a3d5-7bfc-429f-8d30-e432ba4c2a28.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240815%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240815T041820Z&X-Amz-Expires=300&X-Amz-Signature=3646e76f7a8a1e3672c09d212784d5554cbc69a4f02090b245c6579c5c2641de&X-Amz-SignedHeaders=host&actor_id=125201131&key_id=0&repo_id=842064701)" >
+    <img src="https://github.com/user-attachments/assets/4bf1a3d5-7bfc-429f-8d30-e432ba4c2a28" >
     <figcaption>Prediction with SAHI</figcaption>
 </p>
 
