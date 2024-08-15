@@ -2,8 +2,8 @@ Link datasets: https://scidm.nchc.org.tw/en/dataset/fisheye8k!
 
 
 
-![val_batch0_labels](https://hackmd.io/_uploads/Hyn4Dlj5R.jpg "True")
-True
-
-![val_batch0_pred](https://hackmd.io/_uploads/rJRuDejcA.jpg "Predict")
-Predict
+<p align="center">
+  <a href="https://www.uit.edu.vn/" title="Trường Đại học Công nghệ Thông tin" style="border: 5;">
+    <img src="https://i.imgur.com/WmMnSRt.png" alt="Trường Đại học Công nghệ Thông tin | University of Information Technology">
+  </a>
+</p>
